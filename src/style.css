@@ -1,0 +1,18 @@
+.links {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.contact {
+  text-align: center;
+  margin: 30px;
+}
